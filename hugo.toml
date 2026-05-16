@@ -1,9 +1,9 @@
-baseURL = 'https://daria00001111.github.io/-/'
+baseURL = 'https://lamasa02-sudo.github.io/project-practice/'
 languageCode = 'ru-ru'
 title = 'Dark Machine'
 theme = 'minimal-black'
 
-# Добавь эти строки для GitHub Pages:
+# Эти строки оставь - они помогают с путями
 relativeURLs = true
 canonifyURLs = true
 

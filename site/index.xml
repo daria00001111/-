@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dark Machine</title>
-    <link>https://daria00001111.github.io/-/</link>
+    <link>https://lamasa02-sudo.github.io/project-practice/</link>
     <description>Recent content on Dark Machine</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <atom:link href="https://daria00001111.github.io/-/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lamasa02-sudo.github.io/project-practice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://daria00001111.github.io/-/about/</link>
+      <link>https://lamasa02-sudo.github.io/project-practice/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://daria00001111.github.io/-/about/</guid>
+      <guid>https://lamasa02-sudo.github.io/project-practice/about/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://daria00001111.github.io/-/resources/</link>
+      <link>https://lamasa02-sudo.github.io/project-practice/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://daria00001111.github.io/-/resources/</guid>
+      <guid>https://lamasa02-sudo.github.io/project-practice/resources/</guid>
       <description></description>
     </item>
     <item>
       <title>Участники</title>
-      <link>https://daria00001111.github.io/-/team/</link>
+      <link>https://lamasa02-sudo.github.io/project-practice/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://daria00001111.github.io/-/team/</guid>
+      <guid>https://lamasa02-sudo.github.io/project-practice/team/</guid>
       <description>&lt;style&gt;&#xA;  .team-wrapper {&#xA;    margin: 2rem 0 !important;&#xA;  }&#xA;  &#xA;  .team-title {&#xA;    font-size: clamp(2.5rem, 6vw, 5rem) !important;&#xA;    font-weight: 900 !important;&#xA;    color: #ffffff !important;&#xA;    text-transform: uppercase !important;&#xA;    margin: 0 0 2rem 0 !important;&#xA;    border-left: 6px solid #ff3333 !important;&#xA;    padding-left: 20px !important;&#xA;    line-height: 1.1 !important;&#xA;    letter-spacing: 0.05em !important;&#xA;  }&#xA;  &#xA;  .team-table {&#xA;    width: 100% !important;&#xA;    border-collapse: collapse !important;&#xA;    margin-bottom: 4rem !important;&#xA;    background-color: transparent !important;&#xA;  }&#xA;  &#xA;  .team-table th {&#xA;    text-align: left !important;&#xA;    padding: 15px 10px !important;&#xA;    color: #ff3333 !important;&#xA;    font-weight: 700 !important;&#xA;    text-transform: uppercase !important;&#xA;    border-bottom: 3px solid #ff3333 !important;&#xA;    font-size: 0.9rem !important;&#xA;    letter-spacing: 0.05em !important;&#xA;  }&#xA;  &#xA;  .team-table td {&#xA;    padding: 15px 10px !important;&#xA;    color: #cccccc !important;&#xA;    border-bottom: 1px solid #333 !important;&#xA;    font-size: 0.95rem !important;&#xA;  }&#xA;  &#xA;  .team-table tbody tr {&#xA;    transition: background-color 0.2s ease !important;&#xA;  }&#xA;  &#xA;  .team-table tbody tr:hover {&#xA;    background-color: rgba(255, 51, 51, 0.05) !important;&#xA;  }&#xA;  &#xA;  .team-table td:first-child {&#xA;    color: #ff3333 !important;&#xA;    font-weight: 700 !important;&#xA;    width: 120px !important;&#xA;  }&#xA;  &#xA;  .team-table td:last-child {&#xA;    color: #ffffff !important;&#xA;    font-weight: 500 !important;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;team-wrapper&#34;&gt;&#xA;  &lt;h1 class=&#34;team-title&#34;&gt;УЧАСТНИКИ ПРОЕКТА&lt;/h1&gt;&#xA;  &lt;table class=&#34;team-table&#34;&gt;&#xA;    &lt;thead&gt;&#xA;      &lt;tr&gt;&lt;th&gt;Группа&lt;/th&gt;&lt;th&gt;ФИО&lt;/th&gt;&lt;th&gt;Роль&lt;/th&gt;&lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-331&lt;/td&gt;&lt;td&gt;Андреева Мария Сергеевна&lt;/td&gt;&lt;td&gt;Стиль-редактор&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-334&lt;/td&gt;&lt;td&gt;Гаврилов Артем Алексеевич&lt;/td&gt;&lt;td&gt;Заместитель Тимлида&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-333&lt;/td&gt;&lt;td&gt;Гайбель Всеволод Евгеньевич&lt;/td&gt;&lt;td&gt;Нарратив-дизайнер&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-334&lt;/td&gt;&lt;td&gt;Глинчак Игорь Олегович&lt;/td&gt;&lt;td&gt;Звуковой разработчик&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-333&lt;/td&gt;&lt;td&gt;Егорычева Дарья Максимовна&lt;/td&gt;&lt;td&gt;Стиль-редактор&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-334&lt;/td&gt;&lt;td&gt;Зенин Матвей Григорьевич&lt;/td&gt;&lt;td&gt;Маркетолог&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-336&lt;/td&gt;&lt;td&gt;Кирилов Захар&lt;/td&gt;&lt;td&gt;Технический Лидер&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-336&lt;/td&gt;&lt;td&gt;Космынин Арсений&lt;/td&gt;&lt;td&gt;Разработчик продукта&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-336&lt;/td&gt;&lt;td&gt;Ладейнов Матвей Максимович&lt;/td&gt;&lt;td&gt;Разработчик продукта&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-336&lt;/td&gt;&lt;td&gt;Лохмаев Алексей Сергеевич&lt;/td&gt;&lt;td&gt;Игро-дизайнер&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-334&lt;/td&gt;&lt;td&gt;Мирошниченко Владимир Сергеевич&lt;/td&gt;&lt;td&gt;Тимлид&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-813&lt;/td&gt;&lt;td&gt;Набойченко Игната Вадимовна&lt;/td&gt;&lt;td&gt;Стиль-редактор&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-336&lt;/td&gt;&lt;td&gt;Обручков Максим Андреевич&lt;/td&gt;&lt;td&gt;Маркетолог&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-337&lt;/td&gt;&lt;td&gt;Радов Глеб Андреевич&lt;/td&gt;&lt;td&gt;Стиль-редактор&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-334&lt;/td&gt;&lt;td&gt;Семерухина Василиса Алексеевна&lt;/td&gt;&lt;td&gt;Стиль-редактор&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-333&lt;/td&gt;&lt;td&gt;Скоробогатова Эмилия Максимовна&lt;/td&gt;&lt;td&gt;Стиль-редактор&lt;/td&gt;&lt;/tr&gt;&#xA;      &lt;tr&gt;&lt;td&gt;251-333&lt;/td&gt;&lt;td&gt;Шугушева Камилла Исмаиловна&lt;/td&gt;&lt;td&gt;Стиль-редактор&lt;/td&gt;&lt;/tr&gt;&#xA;    &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
