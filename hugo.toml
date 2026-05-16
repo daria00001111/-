@@ -1,0 +1,40 @@
+baseURL = 'https://daria00001111.github.io/-/'
+languageCode = 'ru-ru'
+title = 'Dark Machine'
+theme = 'minimal-black'
+
+# Добавь эти строки для GitHub Pages:
+relativeURLs = true
+canonifyURLs = true
+
+[params]
+  description = 'Пиксельная метроидвания'
+  accentColor = '#dc2626'
+
+[[menu.main]]
+  name = "Главная"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Журнал"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "О проекте"
+  url = "/about/"
+  weight = 3
+
+[[menu.main]]
+  name = "Участники"
+  url = "/team/"
+  weight = 4
+
+[[menu.main]]
+  name = "Ресурсы"
+  url = "/resources/"
+  weight = 5
+
+[markup.goldmark.renderer]
+  unsafe = true
